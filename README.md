@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋🏻, I'm Lucy</h1>
 
-- 🐣 Junior Software Engineer with background in Business Systems
-- 🌱 Currently pursuing Full-stack Development with She Codes Plus Brisbane (2024-25)
+- 🐣 Your friendly neighborhood Junior Software Engineer currently perfecting the fine art of surviving on instant noodles and students discounts
+- 🌱 Pursuing Full-stack Development with She Codes Plus Brisbane (2024-25) 💖
 - 💫 Completing my Master of IT Programming in Feb 2025!
-- 📚 I'm always learning as much as I can, and have a very keen curiosity about Laravel
+- 📚 I'm always learning as much as I can, and have a very keen curiosity about Laravel 
 
 ### 🚀 Featured Projects: <a href="https://duong-28.github.io/lucy-portfolio/">My Portfolio</a>
 
