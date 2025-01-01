@@ -3,7 +3,7 @@
 - 🌱 Currently learning Python, React & Full-stack Development with She Codes Plus Brisbane 24-25
 - 💫 Completing my Master of IT Programming in Feb 2025!
 - 💼 Junior Software Engineer with background in Business Systems
-- 🍜 Perfecting the fine art of surviving on instant noodles and student benefits - free learning is life!
+- 🍜 Perfecting the fine art of surviving on instant noodles and student benefits on GitHub Education - free learning is life!
 
 ### 🚀 Featured Projects: <a href="https://duong-28.github.io/lucy-portfolio/">My Portfolio</a>
 
