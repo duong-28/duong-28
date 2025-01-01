@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋🏻, I'm Lucy</h1>
 
-- 🐣 Your friendly neighborhood Junior Software Engineer currently perfecting the fine art of surviving on instant noodles and students discounts
+- 🐣 Your friendly neighborhood developer currently perfecting the fine art of surviving on instant noodles and students discounts
 - 🌱 Pursuing Full-stack Development with She Codes Plus Brisbane (2024-25) 💖
 - 💫 Completing my Master of IT Programming in Feb 2025!
 - 📚 I'm always learning as much as I can, and have a very keen curiosity about Laravel 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </p>
 
-### 👩🏻‍🎓 Certifications
+### 🌟 Certifications
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/DuongNguyen-7105/ZKU5J6P2?sharingId=E85F8B396CBAC628">Microsoft Azure Fundamentals: Describe Cloud Concepts</a>
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/DuongNguyen-7105/CFP26H49?sharingId=E85F8B396CBAC628">Using GitHub Copilot with Python</a>
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/DuongNguyen-7105/YQGJHZGR?sharingId=E85F8B396CBAC628">Introduction to Azure DevOps</a>
