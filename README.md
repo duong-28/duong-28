@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   </p>
 
-### 🌟 Certifications
+### 🌟 <a href="https://learn.microsoft.com/en-us/users/duongnguyen-7105/">Certifications</a>: 
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/DuongNguyen-7105/ZKU5J6P2?sharingId=E85F8B396CBAC628">Microsoft Azure Fundamentals: Describe Cloud Concepts</a>
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/DuongNguyen-7105/CFP26H49?sharingId=E85F8B396CBAC628">Using GitHub Copilot with Python</a>
 - <a href="https://learn.microsoft.com/api/achievements/share/en-us/DuongNguyen-7105/YQGJHZGR?sharingId=E85F8B396CBAC628">Introduction to Azure DevOps</a>
