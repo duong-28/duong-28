@@ -3,7 +3,7 @@
 - 🐣 baby dev thriving on instant noodles and students discounts
 - 🌱 Aspiring full-stack developer
 - 💫 Master of IT (Programming) and She Codes Plus 2025 Graduate
-- 📚 Perpetual learner — if you're sharing knowledge, I’ve got the curiosity to learn it
+- 📚 Perpetual learner - if you're sharing knowledge, I’ve got the curiosity to learn it
 
 ### 🚀 Featured Projects: <a href="https://duong-28.github.io/lucy-portfolio/">My Portfolio</a>
 
@@ -13,7 +13,7 @@
     <a href="mailto:thuyduong.kt.ftu@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
   </p>
 
-### 👩‍💻 Tech Stack
+### Tech Stack
 - <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
