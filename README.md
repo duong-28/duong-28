@@ -1,13 +1,13 @@
 <h1 align="center">Hi👋🏻, I'm Lucy</h1>
 
-- 🐣 Your friendly neighborhood developer currently perfecting the fine art of surviving on instant noodles and students discounts
-- 🌱 Pursuing Full-stack Development with She Codes Plus Brisbane (2024-25) 💖
-- 💫 Completing my Master of IT Programming in Feb 2025!
-- 📚 I'm always learning as much as I can, and have a very keen curiosity about Laravel 
+- 🐣 baby dev thriving on instant noodles and students discounts
+- 🌱 Aspiring full-stack developer
+- 💫 Master of IT (Programming) and She Codes Plus 2025 Graduate
+- 📚 Perpetual learner — if you're sharing knowledge, I’ve got the curiosity to learn it
 
 ### 🚀 Featured Projects: <a href="https://duong-28.github.io/lucy-portfolio/">My Portfolio</a>
 
-### 🌿 I'm always open to collaboration!
+### 🌿 I'm always open to collaboration, let's connect!
 - <p>
     <a href="https://www.linkedin.com/in/duong-nguyenthuy/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
     <a href="mailto:thuyduong.kt.ftu@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/></a>
